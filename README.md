@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sircishere
-- 👀 I’m interested in creating a website for fun
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in creating websites
+- 🌱 I’m currently relearning c++
 - 💞️ I’m looking to collaborate on fun projects with kind, fun people
-- 📫 How to reach me ...
+- 📫 How to reach me christian.acevedo14@upr.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like physical activities such as running, basketball, tennis and muay thai.
 
